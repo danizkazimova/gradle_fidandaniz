@@ -5,6 +5,6 @@ package org.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Gradle build and Git workflow successful.");
+        System.out.println("Message updated by Student B.");
     }
 }
