@@ -1,8 +1,18 @@
-# Ignore Gradle project-specific cache directory
-.gradle
+# Gradle
+.gradle/
+build/
 
-# Ignore Gradle build output directory
-build
+# Java
+*.class
+*.jar
+*.war
+*.ear
 
-# Ignore Kotlin plugin data
-.kotlin
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
